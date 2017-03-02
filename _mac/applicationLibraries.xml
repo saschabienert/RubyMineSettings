@@ -3202,6 +3202,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-66beabfe7475/scripts" />
       </SOURCES>
     </library>
+    <library name="spices-ios (v0.0.1@757742, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-757742a5159c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-757742a5159c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-757742a5159c/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-757742a5159c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-757742a5159c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-757742a5159c/scripts" />
+      </SOURCES>
+    </library>
+    <library name="spices-ios (v0.0.1@81ad34, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-81ad34edadbc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-81ad34edadbc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-81ad34edadbc/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-81ad34edadbc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-81ad34edadbc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-81ad34edadbc/scripts" />
+      </SOURCES>
+    </library>
     <library name="spices-ios (v0.0.1@88a208, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-88a208ff1cb5/bin" />
@@ -3224,6 +3248,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-ca087112fba5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-ca087112fba5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-ca087112fba5/scripts" />
+      </SOURCES>
+    </library>
+    <library name="spices-ios (v0.0.1@df3c69, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-df3c69228771/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-df3c69228771/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-df3c69228771/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-df3c69228771/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-df3c69228771/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/spices-ios-df3c69228771/scripts" />
       </SOURCES>
     </library>
     <library name="spices-ios (v0.0.1@e1e2fa, RVM: ruby-2.2.2) [gem]">
