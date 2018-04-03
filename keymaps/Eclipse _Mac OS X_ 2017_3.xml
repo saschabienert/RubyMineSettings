@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X) 2017.3" parent="Eclipse (Mac OS X)">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt #10000a7" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -30,6 +33,12 @@
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
