@@ -1,4 +1,7 @@
-<keymap version="1" name="Eclipse (Mac OS X) custom" parent="Eclipse (Mac OS X)">
+<keymap version="1" name="Eclipse (Mac OS X) 2018.1" parent="Eclipse (Mac OS X)">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt #10000a7" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -28,8 +31,21 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -60,6 +76,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift alt #10000a7" />
   </action>
   <action id="ToggleFullScreen" />
 </keymap>
