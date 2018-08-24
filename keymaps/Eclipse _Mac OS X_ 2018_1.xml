@@ -19,15 +19,28 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="shift meta alt back_space" />
+  </action>
+  <action id="Console.TableResult.ColumnSortReset" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorDuplicateLines" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -68,6 +81,7 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
+  <action id="IncrementWindowHeight" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
@@ -89,6 +103,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="SetShortcutAction" />
   <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
@@ -114,5 +131,14 @@
   </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
 </keymap>
