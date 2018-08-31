@@ -29,10 +29,14 @@
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="shift meta alt back_space" />
   </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
+  </action>
   <action id="Console.TableResult.ColumnSortReset" />
   <action id="Console.TableResult.NavigateExportedAction" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Console.Transaction.Commit" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="shift meta 7" />
