@@ -41,6 +41,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.ColumnSortReset" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.FindInGrid" />
   <action id="Console.TableResult.NavigateExportedAction" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
@@ -77,9 +78,6 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="meta f" />
-  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -144,7 +142,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
@@ -188,6 +186,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
