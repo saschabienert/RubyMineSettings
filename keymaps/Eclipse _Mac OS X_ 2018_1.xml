@@ -115,8 +115,14 @@
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="meta alt v" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="meta alt 5" />
   </action>
   <action id="MoveElementRight" />
   <action id="MoveLineDown">
@@ -201,6 +207,9 @@
   </action>
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
