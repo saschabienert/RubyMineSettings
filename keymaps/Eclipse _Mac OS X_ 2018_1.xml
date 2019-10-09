@@ -215,7 +215,7 @@
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="linessorter.sort">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
