@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../public/test_cases/T_CLONE_THIS/mediate.json'" />
+    <option name="defaultScopeName" value="File '.../public/test_cases/T_CLONE_THIS/mediate.json'" />
+    <option name="SEARCH_SCOPE" value="File '.../public/test_cases/T_CLONE_THIS/mediate.json'" />
   </component>
 </application>
