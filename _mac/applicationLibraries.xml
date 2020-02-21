@@ -7686,6 +7686,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-0.20.3/bin" />
       </excluded>
     </library>
+    <library name="thor (v1.0.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-1.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thor-1.0.1/bin" />
+      </excluded>
+    </library>
     <library name="thread_safe (v0.3.6, RVM: ruby-2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
