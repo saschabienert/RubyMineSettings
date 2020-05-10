@@ -39,7 +39,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta alt minus" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift meta alt enter" />
@@ -83,7 +83,7 @@
   </action>
   <action id="EvaluateExpression" />
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta alt equals" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
